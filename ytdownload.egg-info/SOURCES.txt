@@ -1,0 +1,8 @@
+setup.py
+ytdownload/__init__.py
+ytdownload/__main__.py
+ytdownload.egg-info/PKG-INFO
+ytdownload.egg-info/SOURCES.txt
+ytdownload.egg-info/dependency_links.txt
+ytdownload.egg-info/entry_points.txt
+ytdownload.egg-info/top_level.txt
